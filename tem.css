@@ -1,0 +1,36 @@
+.contenedor{
+width: 98%;
+height: 1200px;
+background-color: blueviolet;
+display: flex;
+flex-direction: column;
+font-size: 25px;
+font-family: cursive;
+text-align: center;
+}
+
+.joaquin{
+height: 600px;
+width: 96%;
+background-color: chartreuse;
+font-family: cursive;
+
+}
+.pancracio{
+width: 94%;
+height: 600px;
+background-color: lightgreen;
+
+}
+.mariano{
+width: 92%;
+height: 600px;
+background-color: cornflowerblue;
+
+}
+.sofi{
+width:90%;
+height: 600px;
+background-color: palevioletred;
+}
+
